@@ -34,7 +34,8 @@ Total Ad_Spend
 
 **Dashboard Preview**
 
-"C:\Users\HP\Pictures\Screenshots\Customer Dashboard\Customer Dashboard.png"
+<img width="1098" height="492" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/ca229d38-240c-4282-8ee0-a8f010c3ee8e" />
+
 
 **Tools & Technologies**
 
