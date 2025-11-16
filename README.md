@@ -32,6 +32,10 @@ Total Clicks
 
 Total Ad_Spend
 
+**Dashboard Preview**
+
+"C:\Users\HP\Pictures\Screenshots\Customer Dashboard\Customer Dashboard.png"
+
 **Tools & Technologies**
 
 Excel Data Cleaning & preparation
