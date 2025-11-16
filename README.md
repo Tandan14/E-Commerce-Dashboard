@@ -47,11 +47,11 @@ DAX - Calculations and measures
 
 **Insight Derived**
 
-1.The category with the highest unit sold and revenue in the year 2023 and 2024 is Electronics and this is due to the fact that they are high demand products such as phones,laptops,tv,accessories,etc. They are everyday essentials for work,school and entertainment. Couples with the fact that many customers buy electronics as gifts or possibly for resale, which increases order frequency and makes the demand consistently high and strong
+1.The category with the highest unit sold and revenue in the year 2023 and 2024 is Electronics and this is due to the fact that they are high demand products such as phones,laptops,tv,accessories,etc. They are everyday essentials for work,school and entertainment. Couples with the fact that many customers buy electronics as gifts or possibly for resale, which increases order frequency and makes the demand consistently high and strong.
 
-2. The region with the highest unit sold is North America with a sum of 4642924 and 38.14%. And this is due to the fact that they have one of the biggest online shopping market especially the U.S with mature existent platforms like Amazon,Walmart,eBay,etc. Also including the fact they have Well-developed delivery networks enabling online purchases more convenient and reliable. Leaving it with an edge over Europe with 3933666 (32.32%) and Asia having the least region unit sold with 3592700 (29.52).
+2.The region with the highest unit sold is North America with a sum of 4642924 and 38.14%. And this is due to the fact that they have one of the biggest online shopping market especially the U.S with mature existent platforms like Amazon,Walmart,eBay,etc. Also including the fact they have Well-developed delivery networks enabling online purchases more convenient and reliable.Leaving it with an edge over Europe with 3933666 (32.32%) and Asia having the least region unit sold with 3592700 (29.52).
 
-3. The KPI indicates that the revenue of 2024 is way higher than 2023 with the total sum of 48.76million Surpassing the goal which was 3.49million
+3.The KPI indicates that the revenue of 2024 is way higher than 2023 with the total sum of 48.76million Surpassing the goal which was 3.49million.
 
 **Contact**
 
