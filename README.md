@@ -19,6 +19,7 @@ Which regions perform best
 Profitability across categories and segments
 
 **Key Features**
+
 Total Revenue
 
 Total Units Sold
@@ -32,6 +33,7 @@ Total Clicks
 Total Ad_Spend
 
 **Tools & Technologies**
+
 Excel Data Cleaning & preparation
 
 Power Query- Data transformation
@@ -39,3 +41,9 @@ Power Query- Data transformation
 Power BI - Dashboard development
 
 DAX - Calculations and measures
+
+**Contact**
+
+Email: Tanimoladaniel14@gmail.com
+
+LinkedIn: www.linkedin.com/in/daniel-tanimola-8a8479298
