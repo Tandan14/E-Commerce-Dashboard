@@ -4,9 +4,7 @@ This repository contains an interactive "E-Commerce Sales Dashboard" built using
 
 **Project Overview** 
 
-The E-Commerce Dashboard provides a complete view of business performance by combining KPIS and visuals. 
-
-It helps dtakeholders quickly understand
+The E-Commerce Dashboard provides a complete view of business performance by combining KPIS and visuals. It helps stakeholders quickly understand:
 
 Which products and categories drive the most revenue
 
